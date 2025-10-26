@@ -27,5 +27,3 @@ Um site de **consulta de jogos**, feito com **Next.js** e **TypeScript**, que co
 - **Routing:** Rotas dinâmicas do Next.js  
 - **Tipagem:** TypeScript  
 
-## 📂 Estrutura do Projeto
-
